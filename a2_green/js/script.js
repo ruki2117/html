@@ -2,7 +2,7 @@ $(function(){
     $(".nav > ul > li").mouseover(function(){
         $(".sub, .menubg").stop().slideDown();
     });
-    $(".nav > ul > li").mouseouy(function(){
+    $(".nav > ul > li").mouseout(function(){
         $(".sub, .menubg").stop().slideUp();
     });
     
