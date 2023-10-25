@@ -27,7 +27,7 @@ $(function(){
         $(".popup").show();
         return false;
     });
-    $(".popup button").click(function(){
+    $(".popup .button").click(function(){
         $(".popup").hide();
         return false;
     });
