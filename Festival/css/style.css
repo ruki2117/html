@@ -118,6 +118,13 @@ nav > ul li:hover > a{
     height: 200px;
     display: flex;
 }
+.notice{
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    text-align: center;
+    padding-left: 27px;
+}
 .notice h2{
     display: inline-block;
     width: 150px;
@@ -143,6 +150,7 @@ nav > ul li:hover > a{
     height: 200px;
     padding: 10px;
     text-align: center;
+    padding-right: 20px;
 }
 .gall h2{
     display: inline-block;
@@ -194,6 +202,9 @@ footer{
     height: 100px;
     background: #333;
     padding: 10px;
+}
+.flogo{
+    padding-top: 13px;
 }
 footer select{
     position: absolute;
